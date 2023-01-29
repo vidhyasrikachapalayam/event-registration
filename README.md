@@ -264,11 +264,12 @@ background: url(seclogo.png);
 
 
 ## OUTPUT:
-![output](./out1.png)
+![out1](https://user-images.githubusercontent.com/119477817/215333269-4e7ed948-f695-46ea-b929-9ba5b6956611.png)
 
-![output](./out2.png)
+![out2](https://user-images.githubusercontent.com/119477817/215333279-3077824a-d1da-4e5c-9bb1-5f77e0854eb3.png)
 
-![output](./out3.png)
+![out3](https://user-images.githubusercontent.com/119477817/215333288-6d7a2c16-14ad-4876-a630-e9bf361f8d5b.png)
+
 
 
 
